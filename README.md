@@ -4,4 +4,4 @@ I am a Computer Science student at UiTM Shah Alam. I enjoy learning about web de
 
 I have worked with HTML, CSS, JavaScript, and PHP, and I'm continuing to improve my skills and learn more about web development and software engineering. 
 
-This GitHub profile is where I share my projects, and document what I'm learning. I'm still learning, growing, and figuring things out along the way. Thank you!
+This GitHub profile is where I share my projects, and document what I'm learning. I'm still learning, growing, and figuring things out along the way. Let's connect! https://github.com/afiqah-farz
